@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there! 👋 I'm ViSHAL SiNGH, a bachelor student with a passion for technology and problem-solving.<br><br>Currently, I'm diving deep into the world of Android development, honing my skills to create sleek and functional mobile applications.<br><br>My interests also extend to Data Structures and Algorithms (DSA), where I enjoy tackling challenging problems and exploring efficient solutions.<br><br>I'm currently seeking internship opportunities where I can apply and expand my knowledge in Android development and DSA.<br><br>Whether it's crafting elegant Java code or unraveling complex algorithms, I'm always up for a new challenge.<br><br>Feel free to reach out to me if you have any questions or opportunities related to Java, Android development, or DSA. I'd love to connect and learn from fellow enthusiasts in the field!<br>
+
+# Hi there!👋 I'm ViSHAL SiNGH,
+A bachelor student with a passion for technology and problem-solving.<br>Currently, I'm diving deep into the world of Android development, honing my skills to create sleek and functional mobile applications.<br>My interests also extend to Data Structures and Algorithms (DSA), where I enjoy tackling challenging problems and exploring efficient solutions.<br>I'm currently seeking internship opportunities where I can apply and expand my knowledge in Android development and DSA.<br>Whether it's crafting elegant Java code or unraveling complex algorithms, I'm always up for a new challenge.<br>Feel free to reach out to me if you have any questions or opportunities related to Java, Android development, or DSA. I'd love to connect and learn from fellow enthusiasts in the field!<br>
 
 
 ## 🌐 Socials:
