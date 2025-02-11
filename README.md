@@ -2,6 +2,13 @@
 # Hi there!👋 I'm ViSHAL SiNGH,
 A bachelor student with a passion for technology and problem-solving.<br>Currently, I'm diving deep into the world of Android development, honing my skills to create sleek and functional mobile applications.<br>My interests also extend to Data Structures and Algorithms (DSA), where I enjoy tackling challenging problems and exploring efficient solutions.<br>I'm currently seeking internship opportunities where I can apply and expand my knowledge in Android development and DSA.<br>Whether it's crafting elegant Java code or unraveling complex algorithms, I'm always up for a new challenge.<br>Feel free to reach out to me if you have any questions or opportunities related to Java, Android development, or DSA. I'd love to connect and learn from fellow enthusiasts in the field!<br>
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvishalksingh&label=Profile%20views&color=0e75b6&style=flat" alt="imvishalksingh" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal_sin.23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xyz.com) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/xyz.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/xyz.com) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zyx.com) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ayx.com) 
